@@ -1,0 +1,178 @@
+@font-face {
+    font-family: Tesla;
+    src: url(TESLA.ttf);
+}
+
+@font-face {
+    font-family: Qanelas-Bold;
+    src: url(Qanelas-Bold.ttf);
+}
+
+@font-face {
+    font-family: Qanelas-SemiBold;
+    src: url(Qanelas-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Qanelas-Medium;
+    src: url(Qanelas-Medium.ttf);
+}
+
+body {
+    background-image: url(car.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: -119px;
+}
+
+.a1 {
+    padding-left: 40px;
+    padding-top: 1px;
+}
+
+.t1 {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 18px;
+}
+
+.tr1 {}
+
+.td2 {
+    width: 470px;
+}
+
+.td3 {
+    width: 420px;
+}
+
+.sp1 {
+    margin-left: 35px;
+    font-family: "Tesla";
+    text-transform: uppercase;
+    color: white;
+    font-size: 19px;
+    letter-spacing: 10px;
+    font-weight: 100;
+}
+
+.sp2 {
+    color: white;
+    font-family: "Qanelas-Bold";
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    letter-spacing: 0.5px;
+}
+
+.sp3 {
+    color: white;
+    font-family: "Qanelas-SemiBold";
+    font-size: 44px;
+    letter-spacing: 0.7px;
+}
+
+.t2 {
+    margin-left: 870px;
+    margin-top: 115px;
+}
+
+.sp4 {
+    font-family: "Qanelas-SemiBold";
+    font-size: 32px;
+    color: white;
+    padding-right: 80px;
+}
+
+.t3 {
+    margin-left: 600px;
+    margin-top: 610px;
+}
+
+.b1 {
+    background-color: transparent;
+    border-color: white;
+    width: 210px;
+    height: 38px;
+    border-style: solid;
+    border-radius: 80px;
+}
+
+.sp5 {
+    font-family: "Qanelas-SemiBold";
+    font-size: 13px;
+    color: white;
+    padding-left: 5px;
+}
+
+.sp6 {
+    font-family: "Qanelas-SemiBold";
+    font-size: 13px;
+    color: white;
+    padding-left: 16px;
+}
+
+.img2 {
+    padding-top: 32px;
+    width: 1500px;
+    height: 900px;
+}
+
+.di1 {
+    width: 1500px;
+    height: 985px;
+    background-color: rgb(238, 238, 238);
+    margin-top: 183px;
+    margin-left: -8px;
+}
+
+.di2 {
+    margin-left: 1535px;
+    margin-top: -940px;
+}
+
+.sp7 {
+    font-family: "Qanelas-Medium";
+    font-size: 20px;
+    color: rgb(139, 139, 139);
+}
+
+.sp8 {
+    font-family: "Qanelas-SemiBold";
+    font-size: 32px;
+}
+
+.sp9 {
+    font-family: "Qanelas-Medium";
+    color: rgb(139, 139, 139);
+    font-size: 17px;
+}
+
+.sp10 {
+    font-family: "Qanelas-Medium";
+    text-decoration: underline;
+}
+
+.sp11 {
+    font-family: "Qanelas-Bold";
+    color: rgb(112, 112, 112);
+    font-size: 17px;
+}
+
+.b2 {
+    background-color: transparent;
+    border-color: rgb(0, 0, 0);
+    width: 210px;
+    height: 38px;
+    border-style: solid;
+    border-radius: 80px;
+    margin-left: 1535px;
+    margin-top: 540px;
+}
+
+.sp12 {
+    font-family: "Qanelas-SemiBold";
+    font-size: 13px;
+    color: rgb(126, 126, 126);
+    padding-left: 5px;
+}
